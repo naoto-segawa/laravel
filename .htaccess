@@ -1,0 +1,5 @@
+AuthUserFile /home/users/2/main.jp-725cf8c0ba65a3b/web/miz-create/.htpasswd
+AuthGroupFile /dev/null
+AuthName "miz-create"
+AuthType Basic
+require valid-user
